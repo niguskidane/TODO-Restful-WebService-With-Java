@@ -1,4 +1,4 @@
-package com.todo.restfulwebservice.basicauth;
+package com.todo.basicauth;
 
 public class AuthenticationBean {
 

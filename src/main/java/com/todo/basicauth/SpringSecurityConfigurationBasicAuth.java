@@ -1,4 +1,4 @@
-package com.todo.restfulwebservice.basicauth;
+package com.todo.basicauth;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
